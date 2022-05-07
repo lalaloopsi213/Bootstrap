@@ -2,16 +2,14 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-.btn {
+.btn-primary {
 
 
     color: #FFFFFF;
-  
-  
+
+
     background-color: turquoise
-  
-  
-    }
+}
 
 h1,
 h2,
@@ -27,7 +25,7 @@ header h2 {
     color: #CEC8FF;
 }
 
-.site-footer{
+.site-footer {
     background-image: linear-gradient(#CEC8FF, white);
     padding: 20px 0;
 }
